@@ -1,0 +1,5 @@
+com\mycompany\bytebank\herdado\conta\TesteConta.class
+com\mycompany\bytebank\herdado\conta\ContaPoupanca.class
+com\mycompany\bytebank\herdado\conta\Cliente.class
+com\mycompany\bytebank\herdado\conta\Conta.class
+com\mycompany\bytebank\herdado\conta\ContaCorrente.class
