@@ -1,4 +1,4 @@
-# Bytebank
+# Bytebank 🏧
 
    O Bytebank é um projeto criado durante cursos de JavaOO na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento Java, trata-se de uma aplicação de um banco, onde foram criados mecanismos de depósito, saque, etc. Foram utilizados todos os princípios de Java Orientado a Objeto, Polimorfismo, Herança, entre outros.
 
