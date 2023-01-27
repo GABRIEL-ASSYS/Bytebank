@@ -22,7 +22,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
 
-## 🛠️ Construído com
+## 🛠️ Construído com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
 * [Java](https://www.java.com/en/download/help/whatis_java.html) - Para o desenvolvimento do projeto
 
